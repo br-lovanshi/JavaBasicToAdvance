@@ -22,6 +22,22 @@ public class StreamApi{
 
         List<Student> list1 = list.stream().+
                                   .filter(st -> st.getMakrs <=100)
-                                  .collect(Collector.toList());            
+                                  .collect(Collector.toList());      
+
+        List<Student> addGrassMarks = list.stream()
+                                          .map(st -> st.getMakrs + 5)
+                                          .collect(Collector.toList());   
+
+         List<Integer> numbers = Arrays.asList(1, 2, 2, 3, 3, 4, 4, 5);
+        List<Integer> distinctNumbers = numbers.stream()
+                                      .distinct()
+                                      .collect(Collectors.toList());
+
+
+         List<String> names = Arrays.asList("Alice", "Bob", "Charlie", "David");
+        List<String> sortedNames = names.stream()
+                                .sorted()
+                                .collect(Collectors.toList());
+
     }
-}
+)

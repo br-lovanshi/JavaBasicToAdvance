@@ -10,6 +10,9 @@ public class Student{
         this.name = name;
         this.marks = marks;
     }
+    public Student(){
+        
+    }
 
     public int getRoll(){
         return this.roll;

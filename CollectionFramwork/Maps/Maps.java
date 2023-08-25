@@ -31,5 +31,11 @@ public class Maps {
         for(Integer keys : map.keySet()){
             System.out.println(keys + " " + map.get(keys));
         }
+
+         for(Map.Entry<Integer,String> entry: map.entrySet()){
+            int key = entry.getKey();
+            String value = entry.getValue();
+            System.out.println("Key " + key +" => " + "  Value " + value);
+        }
     }
 }

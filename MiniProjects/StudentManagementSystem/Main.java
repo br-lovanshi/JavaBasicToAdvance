@@ -6,6 +6,13 @@ class Main{
         String str = sc.nextLine();
         System.out.println('Walcome to Student management system.');
         system.out.println(str);
+
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("Hellow");
+        stringBuilder.append(" ");
+        stringBuilder.append("World");
+        
+
         
     }
 }

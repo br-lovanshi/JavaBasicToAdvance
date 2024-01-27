@@ -21,5 +21,10 @@ public class iteration {
             p--;
         }while(p>1);
 
+    int i = 0;
+    for(System.out.println("Hi"); i<5; i++){
+        System.out.println("Brajesh Lovanshi");
+    }
+
     }
 }

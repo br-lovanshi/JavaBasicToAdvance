@@ -1,4 +1,8 @@
 public class DataTypes{
+
+    public void greeting(){
+        System.out.println("Hello Brajesh!");
+    }
     public static void main(String args[]){
 
         // Primitive types
@@ -11,10 +15,9 @@ public class DataTypes{
         char ch = 'a';
         boolean flag = true;
 
-        // reference data tyep
-        
-        System.out.println(byteValue);
-        System.out.println("Hello Brajesh");
+        // reference data type
+        DataTypes dataTypes = new DataTypes();
+        dataTypes.greeting();
 
     }
 }

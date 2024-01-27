@@ -16,8 +16,8 @@ public class SimpleArray1 {
         ArrayOperation arrayOperation = new ArrayOperation();
 
 //        find max ele
-        int[] findMax =  {2,3,5,6,4};
-//        System.out.println(arrayOperation.findMax(findMax));
+        int[] array =  {2,3,5,6,1,3,2};
+//        System.out.println(arrayOperation.findMax(array));
 
 //        find first negative
         int[] findNegative = {-4,2,5,2,5};
@@ -31,7 +31,17 @@ public class SimpleArray1 {
 //        arrayOperation.charArray();
 
 //        find a number from array
-        System.out.println(arrayOperation.findNumber(findMax,1));
+//        System.out.println(arrayOperation.findNumber(findMax,1));
+
+//        reversed array
+//        arrayOperation.reverseArray(array);
+        System.out.println(Arrays.toString(array));
+//        arrayOperation.bubbleSort(array);
+//        arrayOperation.findSubArray(array);
+
+        arrayOperation.findMaxSumOfSubArray(array);
+
     }
+
 
 }

@@ -1,2 +1,6 @@
-package dependencyInjection.looseCoupling;public interface Vehicle {
+package dependencyInjection.looseCoupling;
+
+public interface Vehicle {
+
+    public void start();
 }

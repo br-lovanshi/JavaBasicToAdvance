@@ -10,7 +10,10 @@ import java.util.LinkedList;
 public class Arrlist {
     public static void main(String[] args) {
 
-       Arrlist <Integer> ar = new Arrlist<Integer>();
+       Collection<String> list = new ArrayLIst<>();
+       list.add("foo");
+       list.add("bar");
+       Arrlist <Integer> arrray12 = new Arrlist<Integer>();
        ar.add(29);
        ArrayList<String> al = new ArrayList<>();
        ArrayList<Integer> a2  = new ArrayList<>();
@@ -27,7 +30,7 @@ public class Arrlist {
        int heloo = 10;
 a2.add(null);
 for(int i :a2){
-//    System.out.println(i);
+// System.out.println(i);
 }
        System.out.println(  a2.indexOf(3));
        System.out.println(a2);
@@ -62,7 +65,7 @@ ArrayList<Integer> ar = new ArrayList<>();
            System.out.println(i);
        }
 
-  ArrayList<Integer> al = new ArrayList<>();
+  ArrayList<Integer> all = new ArrayList<>();
 
    Object[] ob = al.toArray();
 
@@ -89,13 +92,13 @@ ArrayList<Integer> ar = new ArrayList<>();
        for(String i : hs){
            System.out.println(i);
        }
-        LinkedHashSet<String > hs = new LinkedHashSet<>();
-        hs.add("hello");
-        hs.add("bro");
-        hs.add("chill");
-        hs.add("bro");
-        hs.add("l");
-        System.out.println(hs);
+        LinkedHashSet<String > hs2 = new LinkedHashSet<>();
+        hs2.add("hello");
+        hs2.add("bro");
+        hs2.add("chill");
+        hs2.add("bro");
+        hs2.add("l");
+        System.out.println(hs2);
 
         }
 

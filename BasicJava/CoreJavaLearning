@@ -84,7 +84,8 @@ public class CoreJavaLearning{
   1. String:- length(), charAt(int index),toCharArray(), toUpperCase(), toLowerCase(), equals(String str),
               substring(int beginIntex),substring(int beginIntex,int endIndex),trim(), concat(String str)
   2. Integer :- parseInt(), toString(),equals(),Integer.valueOf(), MAX_VALUE, MIN_VALUE,
-  3. Double, 4. Boolean,
+  3. Double, 
+  4. Boolean,
   5. Character :- toUpperCase(), toLowerCase(), toString(), isDigit(), isLetter();
   6. Object :- equals(), hascode(), toString();
    

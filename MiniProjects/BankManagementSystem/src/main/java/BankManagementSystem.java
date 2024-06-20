@@ -16,6 +16,6 @@ public class BankManagementSystem {
 
         ApplicationContext context = new AnnotationConfigApplicationContext(AppConfiguration.class);
         BankServiceImpl bankService = context.getBean(BankServiceImpl.class);
-        bankService.getName();
+        
     }
 }

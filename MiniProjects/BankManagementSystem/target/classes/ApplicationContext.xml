@@ -6,6 +6,6 @@
 
   <bean id="BankServiceImpl" class="service.BankServiceImpl">
 <!--      <property name="name" value="Brajesh Lovanshi"/>-->
-      <constructor-arg value="Brajesh Lovanshi"/>
+      <constructor-arg value=""/>
   </bean>
 </beans>

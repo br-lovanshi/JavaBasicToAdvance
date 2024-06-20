@@ -12,20 +12,6 @@ import java.util.logging.Logger;
 public class BankServiceImpl implements BankInterface {
 
     public Map<Long, Bank> bankdata = DataStore.bankData;
-
-    private String name;
-
-
-//    public void setName(String name){
-//        this.name = name;
-//    }
-
-//    public  BankServiceImpl(String name){
-//        this.name = name;
-//    }
-    public void getName(){
-        System.out.println("Good Morning! \n" + name);
-    }
     @Override
     public boolean addBank(Bank bank) {
         bankdata.put(bank.getId(),bank);

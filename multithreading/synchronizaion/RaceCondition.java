@@ -1,5 +1,3 @@
-package multithreading.synchronizaion;
-
 class Common {
     // method level synchronization make our process slow to execute task so it recommend to use block level synchronization
     public synchronized void greet(String name) {

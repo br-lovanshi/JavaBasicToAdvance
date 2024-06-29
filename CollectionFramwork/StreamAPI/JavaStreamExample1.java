@@ -20,6 +20,12 @@ class Products {
     public float getPrice() {
         return this.price;
     }
+
+    @Override
+    public String toString(){
+        return "Student( " + this.name + ", " + this.price + " )";
+    }
+
 }
 
 class JavaStreamExample1 {
@@ -42,7 +48,7 @@ class JavaStreamExample1 {
             }
         }
 
-        priceList.forEach(System.out::println);
+        // priceList.forEach(System.out::println);
 
         // Using Stream API
         List<Float> priceList2 = productsList.stream()
@@ -50,6 +56,14 @@ class JavaStreamExample1 {
                 .map(product -> product.getPrice())
                 .collect(Collectors.toList());
 
-        priceList2.forEach(System.out::println);
+        // priceList2.forEach(System.out::println);
+
+        // sort the laptop based on price
+        List<Products> sortedProductByPrice = productsList.stream()
+                .sorted(Comparator.comparing(Products::getPrice).reversed())
+                .collect(Collectors.toList());
+
+        sortedProductByPrice.forEach(System.out::println);
+
     }
 }

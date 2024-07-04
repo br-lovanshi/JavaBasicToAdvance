@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29501664-03a3-4f5b-89dc-8adcf011d473" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaBasicToAdvance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/Array operations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/ArrayOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/ArrayOperationMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/ArrayOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/Searching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array operations/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/Basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/CoreJavaLearning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/Encaptulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/Opps.Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicJava/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/Arrlist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/CollectionInterFace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/CollectionOneShot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/HascodeAndEqual/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/HashLearn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/IProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/LinkdList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/Maps/Maps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/RemoveDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/Sets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/Stacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/StreamAPI/JavaStreamExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/StreamAPI/JavaStreamExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/iipr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/miniProgram/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionFramwork/miniProgram/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/CoreJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/array/ArrayOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/array/SimpleArray1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/dependencyInjection/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/dependencyInjection/looseCoupling/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/dependencyInjection/tightCoupling/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/dependencyInjection/tightCoupling/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/dependencyInjection/tightCoupling/Journey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/exceptionHandeling/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/exceptionHandeling/Exceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/exceptionHandeling/ThrowKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/function/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/function/MethodsInJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/loop/iteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/memoryAllocation/GarbageCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/memoryAllocation/HeapMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/memoryAllocation/StackMemory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/opps/ClassesAndObjects/Sunday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/opps/Encaptulation/SingerAndSong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/opps/inheritance/HierarchicalInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/opps/inheritance/MultiLevelInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/opps/inheritance/SingleLevelInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/opps/polymorphism/CompileTimePolymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/opps/polymorphism/RuntimePolymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJava/out/production/CoreJava/CoreJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/Singleton/Principle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/Singleton/School.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalInterface/FunctionalInterFace1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalInterface/StreamAPIs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalInterface/StreamApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalInterface/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalInterface/Student1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramming/FunctionalInterFace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramming/NormalClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramming/lembdaExpression/Consumers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramming/lembdaExpression/LembdaBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramming/lembdaExpression/Predicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionalProgramming/streamAPI/StreamAPIOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasicToAdvance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/Calculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/CustomExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/Exceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/Mplify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/com/mplify/ThrowExcepitons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/oops/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/bin/oops/mainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/com/mplify/Exceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/com/mplify/Mplify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/com/mplify/Polymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/oops/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/oops/mainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/BankManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/Exception/BankNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/configuration/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/controller/BankController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/database/DataStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/model/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/model/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/service/BankInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/java/service/BankServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/src/main/resources/ApplicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/BankManagementSystem/target/classes/ApplicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniProjects/StudentManagementSystem/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/CollectionFramework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/JavaQuestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Notes one go.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/VersionControll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/CountEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/src/main/java/com/masai/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/src/main/java/com/masai/InvalidIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/src/main/java/com/masai/MyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/src/main/java/com/masai/MyErrorDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/src/main/java/com/masai/SpringBootexceptionhandlingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/src/test/java/com/masai/SpringBootexceptionhandlingApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/target/classes/com/masai/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/target/classes/com/masai/InvalidIdException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/target/classes/com/masai/MyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/target/classes/com/masai/MyErrorDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/target/classes/com/masai/SpringBootexceptionhandlingApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootexceptionhandling/target/test-classes/com/masai/SpringBootexceptionhandlingApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputTaking/BufferReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputTaking/MatrixInputTaking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreading/Cricket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreading/MainClass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreading/ThreadSuspend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreading/synchronizaion/RaceCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.idea/JavaBasicToAdvance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Array operations/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Array operations/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Array operations/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Array operations/Array operations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/BasicJava/CoreJavaLearning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/CoreJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/CoreJava/out/production/CoreJava/CoreJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/JavaBasics/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/JavaBasics/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/JavaBasics/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/JavaBasics/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/JavaBasics/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/src/main/resources/ApplicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/MiniProjects/BankManagementSystem/target/classes/ApplicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Notes/CollectionFramework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Notes/JavaQuestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Notes/Notes one go.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/Notes/VersionControll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/SpringBootexceptionhandling/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/SpringBootexceptionhandling/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/SpringBootexceptionhandling/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/SpringBootexceptionhandling/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/SpringBootexceptionhandling/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/SpringBootexceptionhandling/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/JavaBasicToAdvance/SpringBootexceptionhandling/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ilrpwHpiOIf9Kgvg89RuBJ9YAn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BrajehsLovanshi/Java/CoreJava&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaBasicToAdvance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29501664-03a3-4f5b-89dc-8adcf011d473" name="Changes" comment="" />
+      <created>1720076191231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720076191231</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -77,9 +77,8 @@ public class StringEasyProblems {
         for (Map.Entry<Character, Integer> entry : charCountMap.entrySet()) {
             char c = entry.getKey();
             int count = entry.getValue();
-            if (charCountMap1.getOrDefault(c, 0) != count) {
-                return false;
-            }
+            if (!entry.getValue().equals(charCountMap1.get(entry.getKey()))) return false;
+
         }
         return true;
     }

@@ -9,6 +9,7 @@ class Thread1 extends Thread { // now we cannot extend any another class
             System.out.println(tName + " is running " + i);
         }
     }
+    
 }
 
 class Thread2 implements Runnable { // we can extend another class and take advantage of inheritance
@@ -38,6 +39,6 @@ public class MainClass1 {
         Thread2 threadBObj = new Thread2();
         Thread threadB = new Thread(threadBObj);
         threadB.currentThread().setName("Vicky Lovanshi");
-        threadB.start();
+        threadB.run();
     }
 }

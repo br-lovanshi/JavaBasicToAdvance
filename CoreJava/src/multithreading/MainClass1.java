@@ -35,7 +35,11 @@ public class MainClass1 {
         Thread1 threadA = new Thread1();
         threadA.currentThread().setName("Brajesh Lovanshi");
         threadA.start();
-
+        try {
+            threadA.sleep(1000); // sleep for 1 second
+        } catch (Exception e) {
+            // TODO: handle exception
+        }
         Thread2 threadBObj = new Thread2();
         Thread threadB = new Thread(threadBObj);
         threadB.currentThread().setName("Vicky Lovanshi");
